@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adria\Artificial-Intelligence-CPP\OpenCV\OpencvTestWindows\build\CMakeFiles\3a9772127fe7a848c8f1be925b1bed46\Nightly.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\adria\Artificial-Intelligence-CPP\OpenCV\OpencvTestWindows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\adria\Artificial-Intelligence-CPP\OpenCV\OpencvTestWindows\build\CMakeFiles\Nightly" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A73005A2-7D79-3563-AC06-04505BC2445E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

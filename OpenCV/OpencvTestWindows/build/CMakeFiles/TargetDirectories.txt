@@ -1,0 +1,9 @@
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/Experimental.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/Nightly.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/Continuous.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/OpencvTestWindows.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/PACKAGE.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/adria/Artificial-Intelligence-CPP/OpenCV/OpencvTestWindows/build/CMakeFiles/ZERO_CHECK.dir
