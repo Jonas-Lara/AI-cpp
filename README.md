@@ -2,6 +2,6 @@
 
 _I was inspired by [Harvard University's AI course](https://www.youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv) ¯\_(ツ)_/¯_
 
-<img src=/Sources/aa.png alt="#"/>
+<img src=/Sources/aa.jpg alt="#"/>
 
 
