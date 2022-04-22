@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jonas/PyTorch/Lesson1/main.cpp" "/home/jonas/PyTorch/Lesson1/build/CMakeFiles/torchtest.dir/main.cpp.o"
+  "/home/jonas/AI.cpp/PyTorch/Lesson1/main.cpp" "/home/jonas/AI.cpp/PyTorch/Lesson1/build/CMakeFiles/torchtest.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
