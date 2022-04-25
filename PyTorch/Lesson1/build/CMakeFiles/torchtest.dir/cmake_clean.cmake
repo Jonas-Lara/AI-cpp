@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/torchtest.dir/main.cpp.o"
+  "CMakeFiles/torchtest.dir/main.cpp.o.d"
   "torchtest"
   "torchtest.pdb"
 )

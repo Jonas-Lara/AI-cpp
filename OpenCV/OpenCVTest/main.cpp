@@ -6,7 +6,7 @@ int main(int argc, char** argv )
 {
 
     Mat image;
-    image = imread("C:/Users/adria/Downloads/14.jpg");
+    image = imread("/home/jonas/Downloads/lena.jpg");
     if ( !image.data )
     {
         printf("No image data \n");

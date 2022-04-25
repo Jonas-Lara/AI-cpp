@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
 
 project(torchtest)
 
-set(CMAKE_PREFIX_PATH /home/jonas/libtorch)
+set(CMAKE_PREFIX_PATH /home/jonas/LibTorch/libtorch)
 
 find_package(Torch REQUIRED)
 
