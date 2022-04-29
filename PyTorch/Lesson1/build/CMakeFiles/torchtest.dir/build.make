@@ -92,10 +92,10 @@ torchtest_EXTERNAL_OBJECTS =
 
 torchtest: CMakeFiles/torchtest.dir/main.cpp.o
 torchtest: CMakeFiles/torchtest.dir/build.make
-torchtest: /home/jonas/LibTorch/libtorch/lib/libtorch.so
-torchtest: /home/jonas/LibTorch/libtorch/lib/libc10.so
-torchtest: /home/jonas/LibTorch/libtorch/lib/libkineto.a
-torchtest: /home/jonas/LibTorch/libtorch/lib/libc10.so
+torchtest: /home/jonas/libtorch/lib/libtorch.so
+torchtest: /home/jonas/libtorch/lib/libc10.so
+torchtest: /home/jonas/libtorch/lib/libkineto.a
+torchtest: /home/jonas/libtorch/lib/libc10.so
 torchtest: CMakeFiles/torchtest.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jonas/AI.cpp/PyTorch/Lesson1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable torchtest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/torchtest.dir/link.txt --verbose=$(VERBOSE)
