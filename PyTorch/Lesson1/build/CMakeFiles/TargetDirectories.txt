@@ -1,3 +1,0 @@
-/home/jonas/AI.cpp/PyTorch/Lesson1/build/CMakeFiles/torchtest.dir
-/home/jonas/AI.cpp/PyTorch/Lesson1/build/CMakeFiles/edit_cache.dir
-/home/jonas/AI.cpp/PyTorch/Lesson1/build/CMakeFiles/rebuild_cache.dir

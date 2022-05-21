@@ -1,3 +1,0 @@
-/home/jonas/Random-Tutorials/1.-Intro/build/CMakeFiles/Main.dir
-/home/jonas/Random-Tutorials/1.-Intro/build/CMakeFiles/edit_cache.dir
-/home/jonas/Random-Tutorials/1.-Intro/build/CMakeFiles/rebuild_cache.dir
